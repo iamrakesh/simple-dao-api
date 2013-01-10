@@ -1,0 +1,5 @@
+Available Targets:
+	clean	:	Deletes all temporary files and directories.
+	compile	:	Compiles all source files.
+	build	:	Compiles all source files and generates jar file.
+	doc	:	Generates Java Documentation for all the classes.
